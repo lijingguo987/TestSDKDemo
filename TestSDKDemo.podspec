@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
 
   s.license      = "MIT (example)"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
-  s.author             = { "lijingguo" => "852470976@qq.com" }
+  s.author             = { "lijingguo987" => "852470976@qq.com" }
 
    s.platform     = :ios, "7.0"
 
