@@ -7,8 +7,8 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/lijingguo987/TestSDKDemo.git"
 
-  s.license      = "MIT (example)"
-  # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+#s.license      = "MIT"
+   s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "lijingguo" => "852470976@qq.com" }
 
    s.platform     = :ios, '7.0'
