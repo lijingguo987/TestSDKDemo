@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.source = { :git => "https://github.com/lijingguo987/TestSDKDemo.git", :tag => s.version }
 
 
-  s.source_files  = "TestSDKDemo/**/*"
+  s.source_files  = "TestSDKDemo/**/*.{h,m}"
 
 s.requires_arc = true
 
